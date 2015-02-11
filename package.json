@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/scommisso/node-ns15-widgets",
   "dependencies": {
-    "ns15-common-data": "^0.0.5"
+    "ns15-common-data": "0.0.4"
   },
   "devDependencies": {
     "chai": "~1.9.1",

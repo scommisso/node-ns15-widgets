@@ -1,5 +1,5 @@
 {
-  "name": "node-ns15-widgets",
+  "name": "ns15-widgets",
   "version": "0.0.1",
   "description": "Contains widget domain logic",
   "main": "index.js",
